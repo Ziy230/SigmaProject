@@ -1,0 +1,4 @@
+.env
+node_modules/
+MajorProject.code-workspace
+**/.DS_Store
